@@ -2,7 +2,8 @@
 
 ##  Limitations, Reproducibility, and Research Positioning
 
-This section situates the project as a **research-style mini study**, clarifies its limitations, and explains how it can be reproduced and evaluated by others. This is a critical section for research programs (such as Caltech SURF) because it demonstrates scientific maturity, not just implementation skills.
+This section situates the project as a **research-style mini study**, clarifies its limitations, and explains how it can be reproduced and evaluated by others. This is a critical section for research programs 
+because it demonstrates scientific maturity, not just implementation skills.
 
 ---
 
