@@ -1,7 +1,7 @@
 # Bias-Aware Automated Feedback System for Student Writing
 
 ## 📌 Project Overview
-
+ 
 This repository contains a research-oriented NLP project designed to generate high-quality writing feedback **while detecting and mitigating potential linguistic or demographic biases**. The project is structured like an academic study to strengthen research experience for programs such as **Caltech SURF**.
 
 ---
