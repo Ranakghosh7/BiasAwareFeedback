@@ -17,7 +17,7 @@ def clean_text(text):
     # Remove emojis
     text = emoji.replace_emoji(text, replace="")
 
-    # Lowercase
+    # Lowercase 
     text = text.lower()
 
     # Remove punctuation/symbols
